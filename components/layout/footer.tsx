@@ -41,11 +41,11 @@ const Footer = () => (
           <p className="font-normal text-[14px] text-white opacity-50 text-center">
             © {new Date().getFullYear()}. Designed and developed by{" "}
             <a
-              href="#"
+              href="https://github.com/abdulhai-rawan"
               className="font-bold"
               target="_blank"
             >
-              hamid
+              abdulhairawan
             </a>
             . All rights reserved.
           </p>
